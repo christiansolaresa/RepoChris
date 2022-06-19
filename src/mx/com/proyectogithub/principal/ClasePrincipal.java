@@ -9,6 +9,7 @@ public class ClasePrincipal {
 		
 		System.out.println("Inicia proyecto Git.");
 		System.out.println("Modificación agregada desde Git Hub.");
+		System.out.println("Primer cambio en eclipse");
 		
 		Figura figura = new Figura();
 		Persona persona = new Persona();
